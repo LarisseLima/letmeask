@@ -59,4 +59,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com :coffee: by 👋🏻 [Larisse Lima](https://www.linkedin.com/in/larisselima/)
+Feito com :coffee: by [Larisse Lima](https://www.linkedin.com/in/larisselima/)
