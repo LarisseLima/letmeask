@@ -58,5 +58,5 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LarisseLima/letmeask/blob/master/LICENSE) para mais detalhes.
 
 ---
+  >Esse projeto foi desenvolvido com ❤:coffee: por **[@Larisse Lima](https://www.linkedin.com/in/larisselima/)**
 
-Feito com :coffee: by [Larisse Lima](https://www.linkedin.com/in/larisselima/)
