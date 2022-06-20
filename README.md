@@ -32,7 +32,7 @@ $ yarn
 $ yarn start
 ```
 
-O app estará disponível no seu browser pela porta  http://localhost:3000.
+O app estará disponível no seu browser em:  http://localhost:3000.
 
 Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
 
